@@ -1,0 +1,15 @@
+0;Nhap Mon Lap Trinh;3;Bat buoc;Tran Cong Tu;
+1;Ky Thuat Lap Trinh;3;Bat buoc;Tran Cong Tu;
+2;Cau Truc Du Lieu;3;Bat buoc;Hoang Van Dung;
+3;Lap Trinh huong doi tuong;3;Bat buoc;Thi Van;
+4;Lap Trinh Window;3;Bat buoc;Huynh Xuan Phung;
+5;Dien Toan Dam May;3;Bat buoc;Huynh Xuan Phung;
+6;Mang May tinh;3;Bat buoc;Huynh Nguyen Chinh;
+7;Co So Du Lieu;3;Bat buoc;Nguyen Thanh Son;
+8;He dieu hanh;3;Bat buoc;Le Van Khoan;
+9;Kien truc may tinh va hop ngu;3;Bat buoc;Dinh Cong Doan;
+10;Lap trinh window;3;Bat buoc;Thi Van;
+11;Nhap mon python;3;Bat buoc;Le Van Vinh;
+12;Lap Trinh R;3;Bat buoc;Quach Dinh Hoang;
+13;Lap Trinh Web;3;Bat buoc;Huynh Xuan Phung;
+14;Toan 1;3;Bat buoc;Le Thi Thi;
